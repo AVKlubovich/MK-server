@@ -1,0 +1,5 @@
+if (UNIX)
+    QT_PATH = .
+else()
+    QT_PATH = c:/Qt/5.7/msvc2013_64
+endif()
